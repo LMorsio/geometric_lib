@@ -11,8 +11,7 @@ def area(a, b):
                     area (float) - площадь данного прямоугольника.
 
     '''
-    # Искажённая формула!
-    return a * b * 2 
+    return a * b
 
 def perimeter(a, b):
     '''
