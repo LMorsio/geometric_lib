@@ -26,3 +26,7 @@
 - Circle (diameter): $D = 2R$
 - Rectangle: $D = \sqrt{a^2 + b^2}$
 - Square: $D = a\sqrt{2}$
+
+```
+Лобанов Максим Станиславович M3109
+```
