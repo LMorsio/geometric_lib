@@ -54,6 +54,16 @@
 - Документация разделена на README, functions и changelog разделы.
 
  Commit: `d36d256` <br>
- Date: Thu Oct 2 02:22:52 2025 +0300q <br>
+ Date: Thu Oct 2 02:22:52 2025 +0300 <br>
  Author: morsio <marati.cucciglaj@gmail.com> <br>
  Message: Add Documentation in markdown notation <br>
+
+### v1.7
+- Добавлены тесты для проверки имплементированных функций.
+- Работоспособность библиотеки проверена 100% прохождением тестов.
+
+ Commit: `47c8b34` <br>
+ Date: Thu Dec 11 01:58:22 2025 +0300 <br>
+ Author: morsio <marati.cucciglaj@gmail.com> <br>
+ Message: Implement TESTS for library | All tests passed! <br>
+ 
